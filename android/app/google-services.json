@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955380141521",
+    "project_id": "iot-project-dc972",
+    "storage_bucket": "iot-project-dc972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955380141521:android:8bce4331a03ed8904c24f0",
+        "android_client_info": {
+          "package_name": "com.example.iot_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBNYQr3nvr2fHeG_qqN4yEWqza4kit53Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
